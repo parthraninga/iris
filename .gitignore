@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.env
+*.egg-info/
+dist/
+build/
+*.egg
+.env/
+.envrc
+venv/
+.idea/
+.vscode/
+
+# VSCode & Jupyter
+*.ipynb
+.ipynb_checkpoints/
+
+# W&B artifacts
+wandb/
+
+#Virtual Environment
+.env/
+.venv/
+venv/

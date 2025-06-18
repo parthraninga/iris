@@ -5,3 +5,5 @@ joblib
 wandb
 fastapi
 uvicorn
+matplotlib
+seaborn
