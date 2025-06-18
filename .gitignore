@@ -27,3 +27,4 @@ wandb/
 .env/
 .venv/
 venv/
+venv
