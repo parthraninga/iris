@@ -1,0 +1,15 @@
+{"time":"2025-06-18T19:51:09.105785+05:30","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"C:\\Users\\Parth\\Desktop\\iris\\wandb\\run-20250618_195108-w70p5mt6\\logs\\debug-core.log"}
+{"time":"2025-06-18T19:51:09.7646951+05:30","level":"INFO","msg":"stream: created new stream","id":"w70p5mt6"}
+{"time":"2025-06-18T19:51:09.7646951+05:30","level":"INFO","msg":"stream: started","id":"w70p5mt6"}
+{"time":"2025-06-18T19:51:09.7646951+05:30","level":"INFO","msg":"sender: started","stream_id":"w70p5mt6"}
+{"time":"2025-06-18T19:51:09.7646951+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"w70p5mt6"}
+{"time":"2025-06-18T19:51:09.7646951+05:30","level":"INFO","msg":"handler: started","stream_id":"w70p5mt6"}
+{"time":"2025-06-18T19:51:10.2513645+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-18T19:51:15.8862849+05:30","level":"INFO","msg":"stream: closing","id":"w70p5mt6"}
+{"time":"2025-06-18T19:51:15.8862849+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-18T19:51:15.8862849+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-18T19:51:20.444477+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-18T19:51:21.0461815+05:30","level":"INFO","msg":"handler: closed","stream_id":"w70p5mt6"}
+{"time":"2025-06-18T19:51:21.0466903+05:30","level":"INFO","msg":"sender: closed","stream_id":"w70p5mt6"}
+{"time":"2025-06-18T19:51:21.0466903+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"w70p5mt6"}
+{"time":"2025-06-18T19:51:21.0472163+05:30","level":"INFO","msg":"stream: closed","id":"w70p5mt6"}

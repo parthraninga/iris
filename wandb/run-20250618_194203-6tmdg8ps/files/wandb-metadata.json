@@ -1,0 +1,27 @@
+{
+  "os":  "Windows-11-10.0.26100-SP0",
+  "python":  "CPython 3.12.7",
+  "startedAt":  "2025-06-18T14:12:03.611002Z",
+  "program":  "C:\\Users\\Parth\\Desktop\\iris\\pipeline.py",
+  "codePath":  "pipeline.py",
+  "email":  "parthraninga13@gmail.com",
+  "root":  "C:\\Users\\Parth\\Desktop\\iris",
+  "host":  "LAPTOP-4ULPE7LL",
+  "executable":  "C:\\ProgramData\\anaconda3\\python.exe",
+  "codePathLocal":  "pipeline.py",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "250851880960",
+      "used":  "192660869120"
+    }
+  },
+  "memory":  {
+    "total":  "16475824128"
+  },
+  "cpu":  {
+    "count":  6,
+    "countLogical":  12
+  }
+}
