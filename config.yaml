@@ -1,0 +1,9 @@
+model:
+  type: RandomForestClassifier
+  params:
+    n_estimators: 100
+    max_depth: 5
+    random_state: 42
+wandb:
+  project: iris-classifier
+  experiment_name: rf-baseline
